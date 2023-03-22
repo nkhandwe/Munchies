@@ -1,0 +1,39 @@
+{
+	"project_info": {
+	  "project_number": "997397296722",
+	  "project_id": "munchies-tanzania01",
+	  "storage_bucket": "munchies-tanzania01.appspot.com"
+	},
+	"client": [
+	  {
+		"client_info": {
+		  "mobilesdk_app_id": "1:997397296722:android:e875401f9e50fa801ad18b",
+		  "android_client_info": {
+			"package_name": "com.munchies.tanzania"
+		  }
+		},
+		"oauth_client": [
+		  {
+			"client_id": "997397296722-rsvuhn16etrngp3d82ave1bqhanosfts.apps.googleusercontent.com",
+			"client_type": 3
+		  }
+		],
+		"api_key": [
+		  {
+			"current_key": "AIzaSyC7eC9gdbCUV_rRTcM48lfv6nbRzssbx6M"
+		  }
+		],
+		"services": {
+		  "appinvite_service": {
+			"other_platform_oauth_client": [
+			  {
+				"client_id": "997397296722-rsvuhn16etrngp3d82ave1bqhanosfts.apps.googleusercontent.com",
+				"client_type": 3
+			  }
+			]
+		  }
+		}
+	  }
+	],
+	"configuration_version": "1"
+  }
